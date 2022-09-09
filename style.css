@@ -1,0 +1,27 @@
+/*
+Theme Name: Elementor Starter
+Theme URI: http://sunflow.cloud/
+Author: Sunflow.cloud
+Author URI: http://sunflow.cloud/
+Description: Elementor Stater blank themes, for custom themes
+Version: 1.0
+Requires at least: 5.9
+Tested up to: 5.9
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: elementor-stater
+Tags: elementor-support elementor-stater
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+Elementor Starter is based on Sunflow https://sunflow.cloud/, (C) 2022 Sunflow, Inc.
+Sunflow is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
